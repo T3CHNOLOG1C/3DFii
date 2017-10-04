@@ -1,0 +1,6 @@
+[submodule "ssl"]
+	path = ssl
+	url = https://github.com/projekthree/ssl
+[submodule "nintendo-network"]
+	path = nintendo-network
+	url = https://github.com/projekthree/nintendo-network
